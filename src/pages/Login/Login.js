@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text, Image, StyleSheet } from 'react-native';
-import Botao from '../components/Botao'; 
-import CampoTexto from '../components/CampoTexto'; 
+import Botao from '../../components/Botao'; 
+import CampoTexto from '../../components/CampoTexto'; 
 
 
 const Login = () => {
